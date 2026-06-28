@@ -1,0 +1,6 @@
+{
+  "name": "Neon Nitro Racing",
+  "description": "An intense vertical scroll neon cyberpunk 2D arcade car racing game built with Jetpack Compose. Navigate heavy traffic, top-up fuel cells, collect core powerups, unlock hypercars, and dominate the high-score boards!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
